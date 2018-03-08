@@ -1,0 +1,68 @@
+h1 {
+  font-family: 'Libre Baskerville',serif;
+  color: #FFFFFF;
+}
+
+th, h4, .filterlabel {
+  font-family: 'Merriweather',serif;
+  font-size: 16pt;
+  color: #000000;
+}
+
+.jumbotron {
+    background-color: #421E5E;
+}
+.jumbotron p {
+    color: #000000;
+}
+
+.totalwrapper {
+    background-color: #9A4A9C;
+}
+
+tr {
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+.editbackground{
+    background-color: #FF9900;
+}
+
+.mensah {
+    background-color: #421E5E;
+}
+
+
+
+.hamhead {
+    background-color: #271238;
+    padding: 25px;
+    border: 5px dashed #FFFFFF;
+}
+
+#myCarousel {
+    background-color: #271238;
+    padding: 25px;
+    border: 15px solid #000000;
+}
+.eggstender {
+    background-color: #271238;
+    padding: 25px;
+    border: 5px dashed #FFFFFF;
+}
+
+.eggstender h3, p {
+    color: #FFFFFF;
+}
+
+.eggstender h4, li {
+    color: #9A4A9C;
+}
+
+.whitetype {
+    color: #FFFFFF;
+}
